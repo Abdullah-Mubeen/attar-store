@@ -1,0 +1,21 @@
+# Python-related
+*.pyc
+*.pyo
+__pycache__/
+env/
+venv/
+*.env
+*.db
+
+# FastAPI-related
+*.sqlite
+*.log
+*.db
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
