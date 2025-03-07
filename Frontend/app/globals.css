@@ -92,3 +92,30 @@
 .sidebar-item.active {
   @apply bg-secondary text-secondary-foreground;
 }
+
+
+@keyframes dash {
+  from {
+    stroke-dashoffset: 283;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-[dash_6s_linear_forwards] {
+  animation: dash 6s linear forwards;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 6s linear infinite;
+}
