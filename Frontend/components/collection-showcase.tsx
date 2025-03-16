@@ -10,7 +10,7 @@ const CollectionShowcase = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="relative rounded-md overflow-hidden h-[550px] group">
             <Image
-              src="https://images.unsplash.com/photo-1616604426203-61859411dea8?q=80&w=1200&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1612784642053-15614e602ed7?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Traditional Attars"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-110"
@@ -40,7 +40,7 @@ const CollectionShowcase = () => {
 
           <div className="relative rounded-md overflow-hidden h-[550px] group">
             <Image
-              src="https://images.unsplash.com/photo-1595425964071-2c1ecb10b52d?q=80&w=1200&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=1200&auto=format&fit=crop"
               alt="Modern Perfumes"
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-110"

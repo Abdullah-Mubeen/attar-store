@@ -11,7 +11,7 @@ const slides = [
     title: "Discover Luxury Fragrances",
     subtitle: "Handcrafted Attars & Perfumes",
     description: "Experience the art of perfumery with our exclusive collection of premium fragrances.",
-    image: "https://images.unsplash.com/photo-1616604426203-61859411dea8?q=80&w=2000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1563170351-be82bc888aa4?q=80&w=2000&auto=format&fit=crop",
     cta: "Shop Collection"
   },
   {
@@ -27,7 +27,7 @@ const slides = [
     title: "Modern Elegance",
     subtitle: "Contemporary Perfumes",
     description: "Discover our modern interpretations of classic fragrances, designed for the discerning individual.",
-    image: "https://images.unsplash.com/photo-1595425964071-2c1ecb10b52d?q=80&w=2000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1523293182086-7651a899d37f?q=80&w=2000&auto=format&fit=crop",
     cta: "View Perfumes"
   }
 ];
